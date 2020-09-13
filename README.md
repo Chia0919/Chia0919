@@ -1,6 +1,6 @@
 ### Hi there, I'm [Chia][website] 👋
 
-## I'm a Software Engineer, Front End Developer, Founder!
+## I'm a Software Engineer, Front End Developer, Founder, Body Builder!
 
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
 
