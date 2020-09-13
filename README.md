@@ -14,8 +14,7 @@
 
 ### Connect with me:
 
-<a href="https://www.twitter.com/Chia09191"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-[![Linkedin Badge](https://img.shields.io/badge/-chia-pak-mun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chia-pak-mun/)](https://www.linkedin.com/in/chia-pak-mun/)
+[![Linkedin Badge](https://img.shields.io/badge/-chia-pak-mun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chia-pak-mun-b4061a1a3/)](https://www.linkedin.com/in/chia-pak-mun-b4061a1a3/)
 [![Twitter Badge](https://img.shields.io/badge/-@Chia09191-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Chia09191)](https://twitter.com/Chia09191)
 
 <!-- [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram)  -->
