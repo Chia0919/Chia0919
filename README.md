@@ -1,4 +1,4 @@
-### Hi there, I'm Chia[website] 👋
+### Hi there, I'm [Chia] 👋
 
 ## I'm a Software Engineer!
 
