@@ -3,7 +3,6 @@
 ## I'm a Software Engineer, Front End Developer, Body Builder!
 
 
-- I’m currently learning everything 🤣
 
 
 <!-- ### Spotify Playing 🎧 -->
